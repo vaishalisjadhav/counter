@@ -1,0 +1,16 @@
+body {
+  background-color: lightcoral;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.countdown {
+  margin-top: 400px;
+  font-size: 24px;
+}
+
+span {
+  display: inline-block;
+  padding: 0 10px;
+}
